@@ -8,8 +8,6 @@ package structures;
  * To change this template use File | Settings | File Templates.
  */
 
-import java.util.Scanner;
-
 /**
  * Created by Evgeny on 11.10.2016.
  */

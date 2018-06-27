@@ -118,7 +118,7 @@ public class Main {
 
     }
 
-    void testsort() throws IOException {
+    void testsort() {
         int n = 10;
         int[] a = new int[n];
         Random st = new Random();

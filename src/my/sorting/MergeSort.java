@@ -7,7 +7,8 @@ package my.sorting;
  * Time: 21:59
  * To change this template use File | Settings | File Templates.
  */
-import java.util.*;
+
+import java.util.Arrays;
 
 public class MergeSort
 {
