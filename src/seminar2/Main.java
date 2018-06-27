@@ -135,7 +135,7 @@ public class Main {
     }
 
 
-    void run() throws IOException {
+    void run() {
         for (int i = 0; i < 10; i++) {
             testsort();
         }
